@@ -5,5 +5,7 @@ This is my Work
 <br> My Name is Khan
 hello dear How are You<br>I am fine here and hope you will also fine at your place
 # Learning Git
-This repo is onluy meant to be used by student for learing purpose.:w
+This repo is onluy meant to be used by student for learing purpose.:
+# second change I am
+this is my second changes in README.md
 
